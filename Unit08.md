@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: The American Civil War** <span id="8"></span> 
 *One of the defining events in American history, the Civil War was a
 contest between the divergent strands of American political and economic

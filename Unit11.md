@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: The "Roaring" 1920s, Great Depression and World War II**
 <span id="11"></span> 
 *The Great Depression was a turning point in the relationship between

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Exploration & Expansion: Europe, 1500-1700** <span
 id="2"></span> 
 *Between 1500 and 1700, Europe reasserted its global dominance after

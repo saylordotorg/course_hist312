@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The American Revolution, 1750-1800** <span id="4"></span> 
 *This unit examines the reasons why Britain’s American colonies rebelled
 and investigates the consequences of that decision.  We will pay

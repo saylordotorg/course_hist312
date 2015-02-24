@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Market Revolution and Antebellum America** <span
 id="6"></span> 
 *This unit explores the explosive economic growth unleashed by the

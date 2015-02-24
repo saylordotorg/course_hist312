@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Colonial Governance and Economics in North America** <span
 id="3"></span> 
 *This unit asks why Great Britain became the dominant European power in

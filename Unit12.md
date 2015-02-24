@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: Post-War America in 1970** <span id="12"></span> 
 *Following World War II, the United States rose to global dominance of
 what* Time*publisher Henry Luce called “The American Century.”  Though

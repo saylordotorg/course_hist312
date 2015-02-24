@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Westward Expansion** <span id="7"></span> 
 *Part of America’s continued economic success is due to the availability
 of land; the West functioned not just as a place, but also as an idea of

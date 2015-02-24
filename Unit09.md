@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Post Civil War America: The Gilded Age (1870-1897)** <span
 id="9"></span> 
 *The federal government’s victory in the American Civil War was followed

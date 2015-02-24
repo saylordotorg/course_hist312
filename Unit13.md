@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST312: Capitalism and Democracy in America"
+course_description: "An examination of the intertwined paths of capitalism and democracy in US history from the 17th century to the present, focusing on the connections between America’s economic and political development."
+next: ../Unit14
+previous: ../Unit12
+---
 **Unit 13: America Since 1970** <span id="13"></span> 
 *Since 1970, capital and democracy have slowly returned to the
 antagonistic positions they occupied for much of the late
