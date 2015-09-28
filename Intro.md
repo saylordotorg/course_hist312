@@ -81,3 +81,4 @@ computer.
 - [Unit 12](https://legacy.saylor.org/hist312/Unit12/)
 - [Unit 13](https://legacy.saylor.org/hist312/Unit13/)
 - [Unit 14](https://legacy.saylor.org/hist312/Unit14/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST312/HIST312-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST312/HIST312-FinalExam-Answers.html)
