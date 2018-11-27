@@ -27,7 +27,7 @@ id="7.1"></span> 
 -   **Reading: Wikibooks’ US History: “Westward Expansion and Manifest
     Destiny”**
     Link: Wikibooks’ *US History:*“[Westward Expansion and Manifest
-    Destiny](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST312-7.1-Westward-Expansion-and-Manifest-Destiny.pdf)”
+    Destiny](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-7.1-Westward-Expansion-and-Manifest-Destiny.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to

@@ -28,7 +28,7 @@ Upon succesful completion of this unit, students will be able to:
 
 -   **Reading: Wikibooks’ US History: “Civil War”**
     Link: Wikibooks’ *US History: *“[Civil
-    War](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST312-8-Civil-War.pdf)”
+    War](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-8-Civil-War.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -137,7 +137,7 @@ id="8.1.2"></span> 
 **8.3 Reconstruction** <span id="8.3"></span> 
 -   **Reading: Wikibooks’ US History: “Reconstruction”**
     Link: Wikibooks’ *US
-    History:*“[Reconstruction](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST312-8.3-Reconstruction.pdf)”
+    History:*“[Reconstruction](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-8.3-Reconstruction.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the webpage in order to
