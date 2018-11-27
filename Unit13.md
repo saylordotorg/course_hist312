@@ -59,7 +59,7 @@ id="13.1.1"></span> 
     Bretton Woods Agreement”**
     Link: “A Decade of American Foreign Policy, 1941-1949:[The Bretton
     Woods
-    Agreement](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST312-13.1.1-The-Bretton-Woods-Agreement.pdf)”
+    Agreement](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-13.1.1-The-Bretton-Woods-Agreement.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to

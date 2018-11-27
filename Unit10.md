@@ -96,7 +96,7 @@ id="10.1"></span> 
 **10.1.2 The Panic of 1893** <span id="10.1.2"></span> 
 -   **Reading: Wikipedia: “Panic of 1893”**
     Link: Wikipedia:  “[Panic of
-    1893](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST312-10.1.2-Panic-of-1893.pdf)”
+    1893](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-10.1.2-Panic-of-1893.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the webpage in order to
@@ -115,7 +115,7 @@ id="10.1"></span> 
 **10.2 Progressivism** <span id="10.2"></span> 
 -   **Reading: Wikibooks’ US History: “Progressive Era”**
     Link: Wikibooks’ *US History: *“[Progressive
-    Era](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST312-10.2-Progressive-Era.pdf)”
+    Era](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-10.2-Progressive-Era.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website on various
@@ -154,7 +154,7 @@ id="10.1"></span> 
     Advocates Federal Regulation, Oversight of Corporations'“**
     Link: History Commons: [“Context of 'August 23, 1902: Roosevelt
     Advocates Federal Regulation, Oversight of
-    Corporations'“](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST312-10.2.1.1-ContextofAugust231902.pdf) (PDF)  
+    Corporations'“](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST312-10.2.1.1-ContextofAugust231902.pdf) (PDF)  
       
      Instructions: Click this link to read Roosevelt’s 1902 speech in
     which he presented his rationale for federal regulation of large
@@ -194,7 +194,7 @@ id="10.1"></span> 
 **10.2.2 World War I** <span id="10.2.2"></span> 
 -   **Reading: Wikibooks’ US History: “World War I”**
     Link: Wikibooks’ *US History:*“[World War
-    I](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST312-10.2.2-World-War-I.pdf)”
+    I](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-10.2.2-World-War-I.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -240,7 +240,7 @@ id="10.1"></span> 
     Link: “[Report of the Special Committee on Investigation of the
     Munitions Industry (The Nye Report), U.S. Congress, Senate, 74th
     Congress, 2nd sess., Feburary 24, 1936, pp.
-    3-13](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST312-10.1.3-The-Nye-Report.pdf)”
+    3-13](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-10.1.3-The-Nye-Report.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this report to understand
