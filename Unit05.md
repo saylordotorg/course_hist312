@@ -45,7 +45,7 @@ Power** <span id="5.1.1"></span> 
 
     [HTML](http://webcache.googleusercontent.com/search?q=cache:nOTDq1-y76gJ:www.constitution.org/ah/rpt_manufactures.doc+alexander+hamilton+report+on+manufactures+text&cd=11&hl=en&ct=clnk&gl=us&client=firefox-a)  
 
-    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-4.5.1-The-Federalist-Papers-51.pdf)  
+    [PDF](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-4.5.1-The-Federalist-Papers-51.pdf)  
       
      Instructions: Please read the first eleven pages of this document
     to better understand Hamilton’s vision of the United States.   
@@ -118,7 +118,7 @@ Power** <span id="5.1.1"></span> 
 **5.1.3 Compromise: Capitol for Capital** <span id="5.1.3"></span> 
 -   **Reading: Wikipedia: “First Bank of the United States”**
     Link: Wikipedia:  “[First Bank of the United
-    States](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-5.1.3-First-Bank-of-the-United-States.pdf)”
+    States](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-5.1.3-First-Bank-of-the-United-States.pdf)”
     (PDF)  
       
      Instructions: Please read the entirety of the entry in order to get
@@ -138,7 +138,7 @@ Power** <span id="5.1.1"></span> 
 **5.2 The War of 1812** <span id="5.2"></span> 
 -   **Reading: Wikibooks’ US History: “War, Nationalism, and Division”**
     Link: Wikibooks’ *US History:*“[War, Nationalism, and
-    Division](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-5.2-US-History-War-Nationalism-and-Division.pdf)”
+    Division](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-5.2-US-History-War-Nationalism-and-Division.pdf)”
     (PDF)  
          
      Instructions: Please read the entirety of the webpage in order to

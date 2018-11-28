@@ -64,7 +64,7 @@ id="12.2"></span> 
 -   **Reading: Wikibooks’ US History: “Eisenhower Civil Rights
     Fifties”**
     Link: Wikibooks’ *US History:*“[Eisenhower Civil Rights
-    Fifties](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-12.3-Eisenhower-Civil-Rights-Fifties.pdf)”
+    Fifties](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-12.3-Eisenhower-Civil-Rights-Fifties.pdf)”
     (PDF)  
       
      Instructions: Please read the entirety of the entry to understand
@@ -84,7 +84,7 @@ id="12.2"></span> 
 
 -   **Reading: Wikibooks’ US History: “Kennedy and Johnson”**
     Link: Wikibooks’ *US History:*“[Kennedy and
-    Johnson](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-12.3-Kennedy-and-Johnson.pdf)”
+    Johnson](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-12.3-Kennedy-and-Johnson.pdf)”
     (PDF)  
       
      Instructions: Please read the entirety of the entry to understand

@@ -46,7 +46,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Wikibooks’ European History: “European History/Challenges
     to Spiritual Authority”**
     Link: Wikibooks’ *European History:* ["Challenges to Spiritual
-    Authority"](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST-312-2.1-European-History-Challenges-to-Spiritual-Authority.pdf)
+    Authority"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST-312-2.1-European-History-Challenges-to-Spiritual-Authority.pdf)
     (PDF)  
         
      Also available in:  
@@ -72,7 +72,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Wikibooks’ European History: “Scientific Revolution and
     Enlightenment”**
     Link: Wikibooks’ *European History:* ["Scientific Revolution and
-    Enlightenment"](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-2.2-European-History-Scientific-Revolution-and-Enlightenment.pdf)
+    Enlightenment"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-2.2-European-History-Scientific-Revolution-and-Enlightenment.pdf)
     (PDF)  
         
      Instructions: Please read the entirety of the webpage.  

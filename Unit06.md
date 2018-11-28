@@ -41,11 +41,11 @@ Democrats** <span id="6.2"></span> 
     The ‘Man Who Made the Court Supreme,’” and “Jacksonian Democracy”**
     Link: *Sage American History:* Henry J. Sage's* * “[The John Quincy
     Adams Years and the American
-    Economy](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-John-Quincy-Adams-Economy.pdf),”
+    Economy](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-John-Quincy-Adams-Economy.pdf),”
     (PDF) “[JOHN MARSHALL: The ‘Man Who Made the Court
-    Supreme](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-John-Marshall-.pdf),’”
+    Supreme](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-John-Marshall-.pdf),’”
     (PDF) and “[Jacksonian
-    Democracy](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-Jacksonian-Democracy-.pdf)”
+    Democracy](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-Jacksonian-Democracy-.pdf)”
     (PDF)  
         
      Instructions:  Please read the entirety of these web pages to get a
