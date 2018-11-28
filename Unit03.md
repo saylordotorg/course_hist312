@@ -34,7 +34,7 @@ Upon successful completion of this unit, students will be able to:
 **3.1 Britain’s North American Colonies** <span id="3.1"></span> 
 -   **Reading: Wikibooks’ US History: “English Colonies”**
     Link: Wikibooks’ *US History:* [English
-    Colonies](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST-312-3.1-US-History-English-Colonies.pdf)
+    Colonies](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST-312-3.1-US-History-English-Colonies.pdf)
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -143,7 +143,7 @@ id="3.2"></span> 
 **3.2.1 Mercantilism** <span id="3.2.1"></span> 
 -   **Reading: Wikipedia: “Bacon’s Rebellion”**
     Link: Wikipedia*:*“[Bacon's
-    Rebellion](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-3.2.1-Bacons-Rebellion.pdf)”
+    Rebellion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-3.2.1-Bacons-Rebellion.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to

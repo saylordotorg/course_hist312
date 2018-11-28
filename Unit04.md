@@ -45,7 +45,7 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Reading: Wikibooks’ US History: “Road to Revolution”**
     Link: Wikibooks’ *US History:* [Road to
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-4-US-History-Road-to-Revolution.pdf) (PDF)  
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-4-US-History-Road-to-Revolution.pdf) (PDF)  
          
      Instructions: Please read the entirety of the website in order to
     get a sense of the events that caused the American Revolution prior
@@ -141,7 +141,7 @@ id="4.3"></span> 
 **4.4 The American Revolution** <span id="4.4"></span> 
 -   **Reading: Wikibooks’ US History: “American Revolution”**
     Link: Wikibooks’ *US History:* [American
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-4.4-American-Revolution.pdf)
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-4.4-American-Revolution.pdf)
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -203,7 +203,7 @@ id="4.3"></span> 
 **4.5 The American Constitution** <span id="4.5"></span> 
 -   **Reading: Wikibooks’ US History: “Constitution Early Years”**
     Link: Wikibooks’ *US History:* [“Constitution Early
-    Years”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-4.5-Constitution-Early-Years.pdf)
+    Years”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-4.5-Constitution-Early-Years.pdf)
     (PDF)  
         
      Instructions: Please read the entirety of his entry, which
@@ -223,7 +223,7 @@ id="4.3"></span> 
 -   **Reading: National Archives and Records Administration: U.S.
     Constitution**
     Link: National Archives and Records Administration: [U.S.
-    Constitution](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-4.5-US-Constitution.pdf)
+    Constitution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-4.5-US-Constitution.pdf)
     (PDF)  
       
      Also available in:  
@@ -276,7 +276,7 @@ id="4.3"></span> 
 -   **Reading: Yale University’s e-copy of James Madison’s “Federalist
     51”**
     Link: Yale University’s e-copy of James Madison’s [Federalist
-    51](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-4.5.1-The-Federalist-Papers-51.pdf)
+    51](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-4.5.1-The-Federalist-Papers-51.pdf)
     (PDF)  
       
      Instructions: Please read the entirety of this document to better

@@ -34,7 +34,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Wikibooks’ US History: “Age of Invention and Gilded
     Age”**
     Link: Wikibooks’ *US History:*“[Age of Invention and Gilded
-    Age](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-9-Age-of-Invention-and-Gilded-Age.pdf)”
+    Age](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-9-Age-of-Invention-and-Gilded-Age.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -78,7 +78,7 @@ id="9.1.2"></span> 
 -   **Reading: The Saylor Foundation's "Industrialization and Economic
     Growth"**
     Link: The Saylor Foundation's "[Industrialization and Economic
-    Growth](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST312-Industrialization-and-Economic-Growth-FINAL.pdf)"
+    Growth](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST312-Industrialization-and-Economic-Growth-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read this in its entirety.
@@ -90,7 +90,7 @@ id="9.2.1"></span> 
     Post-Civil War Politics"**
     Link: The Saylor Foundation's "[Republican Domination of Post-Civil
     War
-    Politics](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST312-Republican-Dominance-of-Politics-FINAL.pdf)"
+    Politics](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST312-Republican-Dominance-of-Politics-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -113,9 +113,9 @@ id="9.2.2"></span> 
 -   **Reading: Reading: *Sage American History*: Dr. Henry Sage’s “The
     Gilded Age,” and “Politics in the Gilded Age”**
     Link: *Sage American History:* Henry J. Sage's * *“[The Gilded
-    Age](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-Politics-in-the-Gilded-Age.pdf),”
+    Age](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-Politics-in-the-Gilded-Age.pdf),”
     (PDF) and “[Politics in the Gilded
-    Age](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-Politics-in-the-Gilded-Age.pdf)”
+    Age](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-Politics-in-the-Gilded-Age.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of these web pages in order

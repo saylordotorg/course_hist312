@@ -43,7 +43,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Wikibooks’ US History: “Roaring Twenties and
     Prohibition”**
     Link: Wikibooks’ *US History:*“[Roaring Twenties and
-    Prohibition](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-Roaring-Twenties-and-Prohibition.pdf)”
+    Prohibition](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-Roaring-Twenties-and-Prohibition.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the webpage in order to
@@ -84,7 +84,7 @@ Upon successful completion of this unit, students will be able to:
 **11.1.2 A “Consumer’s Paradise”** <span id="11.1.2"></span> 
 -   **Reading: The Saylor Foundation's "A Consumer's Paradise"**
     Link: The Saylor Foundation's "[A Consumer's
-    Paradise](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST312-A-Consumers-Paradise-FINAL.pdf)"
+    Paradise](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST312-A-Consumers-Paradise-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -127,7 +127,7 @@ America’s newfound wealth.*
 **11.2 The Great Depression** <span id="11.2"></span> 
 -   **Reading: Wikibooks’ US History: “Great Depression and New Deal”**
     Link: Wikibooks’ *US History:*“[Great Depression and New
-    Deal](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-11.2-Great-Depression-and-New-Deal.pdf)”
+    Deal](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-11.2-Great-Depression-and-New-Deal.pdf)”
     (PDF)  
       
      Instructions: Please read the entirety of the entry to understand
@@ -188,7 +188,7 @@ id="11.4"></span> 
 -   **Reading: Wikibooks’ US History: “World War II and Rise of Atomic
     Age"**
     Link: Wikibooks’ *US History: *“[World War II and Rise of Atomic
-    Age](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST312-11.4-World-War-II-and-Rise-of-Atomic-Age.pdf)”
+    Age](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST312-11.4-World-War-II-and-Rise-of-Atomic-Age.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
